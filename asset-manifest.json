@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/oye-rickshaw/static/css/main.50695a3d.chunk.css",
-    "main.js": "/oye-rickshaw/static/js/main.f58fa4c9.chunk.js",
-    "main.js.map": "/oye-rickshaw/static/js/main.f58fa4c9.chunk.js.map",
+    "main.js": "/oye-rickshaw/static/js/main.b37fad52.chunk.js",
+    "main.js.map": "/oye-rickshaw/static/js/main.b37fad52.chunk.js.map",
     "runtime-main.js": "/oye-rickshaw/static/js/runtime-main.183ebbeb.js",
     "runtime-main.js.map": "/oye-rickshaw/static/js/runtime-main.183ebbeb.js.map",
     "static/css/2.04ff9426.chunk.css": "/oye-rickshaw/static/css/2.04ff9426.chunk.css",
     "static/js/2.1f1a0b52.chunk.js": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js",
     "static/js/2.1f1a0b52.chunk.js.map": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js.map",
     "index.html": "/oye-rickshaw/index.html",
-    "precache-manifest.a73cffca00076b96880e89202d16f66d.js": "/oye-rickshaw/precache-manifest.a73cffca00076b96880e89202d16f66d.js",
+    "precache-manifest.42c0d19d4bf237029f7b2e8abc7a8e21.js": "/oye-rickshaw/precache-manifest.42c0d19d4bf237029f7b2e8abc7a8e21.js",
     "service-worker.js": "/oye-rickshaw/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/oye-rickshaw/static/css/2.04ff9426.chunk.css.map",
     "static/css/main.50695a3d.chunk.css.map": "/oye-rickshaw/static/css/main.50695a3d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.04ff9426.chunk.css",
     "static/js/2.1f1a0b52.chunk.js",
     "static/css/main.50695a3d.chunk.css",
-    "static/js/main.f58fa4c9.chunk.js"
+    "static/js/main.b37fad52.chunk.js"
   ]
 }

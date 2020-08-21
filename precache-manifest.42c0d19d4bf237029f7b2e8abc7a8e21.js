@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "871ca1ec13595205764c3b1cf2b1b716",
+    "revision": "fb2bad3e54ca135f20600aa92086bd2c",
     "url": "/oye-rickshaw/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oye-rickshaw/static/css/2.04ff9426.chunk.css"
   },
   {
-    "revision": "2199b2cd719ebe16bfde",
+    "revision": "434ac209e2cbc07e4ea0",
     "url": "/oye-rickshaw/static/css/main.50695a3d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2199b2cd719ebe16bfde",
-    "url": "/oye-rickshaw/static/js/main.f58fa4c9.chunk.js"
+    "revision": "434ac209e2cbc07e4ea0",
+    "url": "/oye-rickshaw/static/js/main.b37fad52.chunk.js"
   },
   {
     "revision": "9ae43b6f4d938a99b9ed",
