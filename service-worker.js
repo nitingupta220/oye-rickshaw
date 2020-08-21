@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oye-rickshaw/precache-manifest.6e1809b9dc74451010d5bce21aa92457.js"
+  "/oye-rickshaw/precache-manifest.a73cffca00076b96880e89202d16f66d.js"
 );
 
 self.addEventListener('message', (event) => {

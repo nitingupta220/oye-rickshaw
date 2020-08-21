@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3335c3556927f6ab7e44ec1897a1e33",
+    "revision": "871ca1ec13595205764c3b1cf2b1b716",
     "url": "/oye-rickshaw/index.html"
   },
   {
