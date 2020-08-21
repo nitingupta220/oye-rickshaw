@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oye-rickshaw/static/css/main.50695a3d.chunk.css",
+    "main.js": "/oye-rickshaw/static/js/main.f58fa4c9.chunk.js",
+    "main.js.map": "/oye-rickshaw/static/js/main.f58fa4c9.chunk.js.map",
+    "runtime-main.js": "/oye-rickshaw/static/js/runtime-main.183ebbeb.js",
+    "runtime-main.js.map": "/oye-rickshaw/static/js/runtime-main.183ebbeb.js.map",
+    "static/css/2.04ff9426.chunk.css": "/oye-rickshaw/static/css/2.04ff9426.chunk.css",
+    "static/js/2.1f1a0b52.chunk.js": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js",
+    "static/js/2.1f1a0b52.chunk.js.map": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js.map",
+    "index.html": "/oye-rickshaw/index.html",
+    "precache-manifest.6e1809b9dc74451010d5bce21aa92457.js": "/oye-rickshaw/precache-manifest.6e1809b9dc74451010d5bce21aa92457.js",
+    "service-worker.js": "/oye-rickshaw/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/oye-rickshaw/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.50695a3d.chunk.css.map": "/oye-rickshaw/static/css/main.50695a3d.chunk.css.map",
+    "static/js/2.1f1a0b52.chunk.js.LICENSE.txt": "/oye-rickshaw/static/js/2.1f1a0b52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.183ebbeb.js",
+    "static/css/2.04ff9426.chunk.css",
+    "static/js/2.1f1a0b52.chunk.js",
+    "static/css/main.50695a3d.chunk.css",
+    "static/js/main.f58fa4c9.chunk.js"
+  ]
+}
